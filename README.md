@@ -1,4 +1,4 @@
-## Modelagem de classes 
+## Diagrama de classes 
 ![image](https://github.com/EduardoDandolini/attus-api/assets/130665098/2b9a25d2-aa5e-439d-8e30-3f80f8b8e17a)
 
 ## Como rodar o projeto ?
