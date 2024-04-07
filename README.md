@@ -1,3 +1,6 @@
+## Sobre a API
+A API desenvolvida visa proporcionar um sistema robusto para o gerenciamento de cadastros de pessoas e seus respectivos endereços. Com esta API, os usuários podem facilmente cadastrar informações detalhadas sobre indivíduos, além de associar múltiplos endereços a cada pessoa.
+
 ## Diagrama de classes 
 ![image](https://github.com/EduardoDandolini/attus-api/assets/130665098/2b9a25d2-aa5e-439d-8e30-3f80f8b8e17a)
 
