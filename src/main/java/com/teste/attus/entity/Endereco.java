@@ -23,9 +23,9 @@ public class Endereco {
 
     private String cidade;
 
-    private Long numero;
+    private String numero;
 
-    @ManyToOne()
+    @ManyToOne
     @JoinColumn(name = "id_pessoa")
     private Pessoa pessoa;
 
